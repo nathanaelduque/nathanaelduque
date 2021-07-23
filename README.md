@@ -27,6 +27,6 @@ Currently, my studies are focused on:
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a target="_blank" href="https://web.telegram.org/@NathanaelDuque">
+<a target="_blank" href=" https://t.me/NathanaelDuque">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
