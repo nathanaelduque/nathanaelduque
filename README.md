@@ -5,7 +5,7 @@ I'm Nathanael Duque,i'm an electrical engineering student at the Universidade Fe
 Currently, my studies are focused on:
 
 - Python:
-    - Numpy/ Pandas / Pade / Matplotlib / Scikit-Learn/ Seaborn 
+    - Numpy/ Pandas / Pade / Matplotlib / Scikit-Learn/ Seaborn / Pyomo and COIN-OR)
   
 - Machine Learning.
 
@@ -13,7 +13,7 @@ Currently, my studies are focused on:
 
 - Meta Heuristics.
 
-- Linear Programming.
+- Linear Programming
 
 - Multi-Agent Systems.
 
